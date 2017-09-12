@@ -1,6 +1,6 @@
 # Валидация данных
 ### Лабораторная работа #1
-[[презентация]]() [[репозиторий]](https://github.com/Andrew414/validationtask) [[english]](https://github.com/Andrew414/validationtask/blob/master/README.md)
+[[презентация]](https://www.dropbox.com/s/oxyb0fkrilo7q8l/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.pptx?dl=0) [[репозиторий]](https://github.com/Andrew414/validationtask)
 
 ### Условие
 Необходимо написать программу или скрипт, которые способы включить/выключить один из сетевых адаптеров в системе. У программы должен быть интерфейс командной строки, настройка должна проводиться через входные параметры:
